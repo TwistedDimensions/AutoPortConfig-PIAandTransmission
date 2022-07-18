@@ -1,11 +1,11 @@
 # AutoPortConfig-PIAandTransmission
-This repo is pretty simple, it is just to auto configure transmission (p2p software) with the port updates provided by PIAs manual connections script. Not affiliated with PIA.
+This repo is pretty simple, it is just to auto configure transmission (p2p software) with the port updates provided by PIAs manual connections script. Not affiliated with PIA but built on top of their scripts with just some minor modifications to accomodate my use case.
 
 Still working on making this fully functional but here is where I am at, I was mainly concerned with getting it functional for my use case.
 
 WIP: 
 - Fix permissions
-- Configure fully suite of customizations via arguments
+- Configure full suite of customizations via arguments
 - Test/Configure OpenVPN
 - Manual region selection
 - Test and Add directions for a cronjob on boot.
