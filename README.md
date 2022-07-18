@@ -1,7 +1,7 @@
 # AutoPortConfig-PIAandTransmission
 This repo is pretty simple, it is just to auto configure transmission (p2p software) with the port updates provided by PIAs manual connections script. Not affiliated with PIA but built on top of their scripts with just some minor modifications to accomodate my use case.
 
-Please visit the original repo if you have any questions outside of the modifications made here: https://github.com/pia-foss/manual-connections
+Please visit the original repository made by PIA if you have any questions outside of the modifications made here: https://github.com/pia-foss/manual-connections
 
 Still working on making this fully functional but here is where I am at, I was mainly concerned with getting it functional for my use case.
 
