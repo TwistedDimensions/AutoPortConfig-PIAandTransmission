@@ -27,10 +27,10 @@ Typical usage would be something like this:
 
 sudo bash ./run_setup.sh -u YOURPIAUSERNAME -p 'YOURPIAPASSWORD' -f true -i y -s n -v w
 
--u is your username
--p is your password
--f is true or false for port forwarding
--i is y for yes or n for no for whether or not to disable IPv6
--s is for yes or no for whether you want to manually select a server, manual selection is not set up with the script yet.
--v is for wireguard or openvpn, only wireguard has been tested.
+- -u is your username
+- -p is your password
+- -f is true or false for port forwarding
+- -i is y for yes or n for no for whether or not to disable IPv6
+- -s is for yes or no for whether you want to manually select a server, manual selection is not set up with the script yet.
+- -v is for wireguard or openvpn, only wireguard has been tested.
 
